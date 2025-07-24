@@ -1,5 +1,56 @@
-# 💫 About Me:
-💫 About Me:<br>👋 Hello there, I'm **Shreyam Regmi**!<br><br><br>🎓 **Computer Engineering student** at **Pulchowk Campus**  <br><br>💻 Passionate about **Software Development**, **Web Technologies**, and **Machine Learning**  <br><br>✍️ Also a creative writer & poet | Author of **The Unspoken Journeys** & **Euphoria**<br><br><br><br>---<br><br>🛠️ Tech Stack<br><br>- **Languages**: **Python**, **C**, **C++**, **Java**, **JavaScript**  <br><br>- **Frontend**: **HTML**, **CSS**, **React**  <br><br>- **Backend**: **Node.js**, **Express**  <br><br>- **Databases**: **MongoDB**, **MySQL**  <br><br>- **Tools & Platforms**: **Git**, **GitHub**, **VS Code**, **Manim**, **Postman**  <br><br>- **Currently Learning**: **Django**, **DevOps**, **Machine Learning**<br><br><br><br>---<br><br>📌 Projects I've Built<br><br>- 🌱 **Waste Management for Nepal** – A tech-driven initiative focused on solving solid waste problems using digital solutions  <br><br>- 🎯 **Typing Tutor in C** – Terminal-based typing practice program  <br><br>- 📐 **Sketraa** – AI-based 2D/3D house planner from user prompts<br><br><br><br>---<br><br>🚧 Projects I'm Working On<br><br>- 🧠 **Match Outcome Predictor** – ML project predicting football match results using historical data  <br><br>- 📝 **Notes Sharing App** – Centralized platform to share notes for engineering first-year students across faculties<br><br><br><br>---<br><br>📖 My Creative Side<br><br>- 📚 Writing poetry collections like **The Unspoken Journeys** and **Euphoria**  <br><br>- 🎬 Creating **lyrical videos** and **math animations** using **Manim**<br><br><br><br>---<br><br>📫 Let’s Connect!<br><br>- ✉️ **Email**: *shreyam.regmi@email.com*  <br><br>- 🔗 **[LinkedIn](https://www.linkedin.com/in/shreyam-regmi-6724a6252/)**  <br><br>- 🌐 **Portfolio**:shreyamregmi.com.np<br><br><br><br>---<br><br>> “**Code is poetry. Poetry is emotion. I aim to master both.**”  <br><br>> — *Shreyam Regmi*<br><br>
+# 💫 About Me
+
+👋 Hi there! I'm **Shreyam Regmi**, a passionate **Computer Engineering student** at **Pulchowk Campus**.
+
+💻 I build **smart systems**, craft **elegant code**, and write **meaningful stories**.
+
+✍️ Poet & Author of *The Unspoken Journeys* and *Euphoria*
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 **Languages**: `Python`, `C`, `C++`, `Java`, `JavaScript`  
+- 🎨 **Frontend**: `HTML`, `CSS`, `React`  
+- 🧩 **Backend**: `Node.js`, `Express`  
+- 🛢️ **Databases**: `MongoDB`, `MySQL`  
+- 🧰 **Tools**: `Git`, `GitHub`, `VS Code`, `Postman`, `Manim`  
+- 🚀 **Learning**: `Django`, `DevOps`, `Machine Learning`  
+
+---
+
+## 🚀 Projects
+
+### ✅ Built
+- ♻️ **Waste Management for Nepal** — Tackling solid waste with digital solutions  
+- ⌨️ **Typing Tutor (C)** — Terminal-based typing practice app  
+- 🏠 **Sketraa** — AI-powered 2D/3D house planner  
+- 🔐 **Subscription Tracker API** — JWT-authenticated backend with Node.js & MongoDB  
+
+### 🔧 In Progress
+- ⚽ **Match Outcome Predictor** — Predicting football results using ML  
+- 📚 **Notes Sharing App** — Platform for 1st-year engineering notes  
+
+---
+
+## 🎭 Creative Side
+
+- ✒️ Writing poetry and books: *The Unspoken Journeys* & *Euphoria*  
+- 🎥 Creating **lyrical videos** & **math animations** with *Manim*  
+
+---
+
+## 📫 Let’s Connect
+
+- ✉️ **Email**: `shreyam.regmi@email.com`  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/shreyam-regmi-6724a6252/)  
+- 🌐 **Portfolio**: [shreyamregmi.com.np](https://shreyamregmi.com.np)
+
+---
+
+> “**Code is poetry. Poetry is emotion. I aim to master both.**”  
+> — *Shreyam Regmi*
+
 
 
 ## 🌐 Socials:
