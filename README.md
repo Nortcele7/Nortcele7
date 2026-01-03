@@ -1,14 +1,12 @@
 <h1 align="center">Shreyam Regmi</h1>
 
-<p justify-items="center">
+<p align="center">
 
-![MERN Stack Developer](https://img.shields.io/badge/MERN-Stack-FFD700?style=for-the-badge&logo=mern&logoColor=black)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF5733?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Learner](https://img.shields.io/badge/Learner-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)
+<img src="https://img.shields.io/badge/MERN-Stack-FFD700?style=for-the-badge&logo=mern&logoColor=black" alt="MERN Stack"/>
+<img src="https://img.shields.io/badge/AI%2FML-FF5733?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/Learner-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learner"/>
 
 </p>
-
-
 
 ## About Me
 I’m a **Computer Engineering student at Pulchowk Campus** with a strong passion for building **scalable software, clean architectures, and impactful products**. I enjoy turning ideas into working systems — whether it’s a full-stack web app, a visual math animation, or a machine learning model driven by real data.
