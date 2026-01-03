@@ -1,4 +1,6 @@
 <h1 align="center">Shreyam Regmi</h1>
+<h2 align="center">MERN Stack| AI/ML | Learner </h2>
+
 
 ## About Me
 
