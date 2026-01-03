@@ -1,3 +1,5 @@
+<h1 align="center">Shreyam Regmi</h1>
+
 ## About Me
 
 ### Currently Working On
@@ -24,12 +26,6 @@ Focusing on server components, routing, and performance optimization.
 - **Manim Animations** (Math & Visual Explanations)
 - **Machine Learning Fundamentals**
 - Project structuring and clean coding practices
-
----
-
-### Philosophy
-> *I believe consistent learning and building are the keys to mastery.*
-
 
 
 ## 🌐 Socials:
