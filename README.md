@@ -3,9 +3,7 @@
 <p align="center">
 
 ![MERN Stack Developer](https://img.shields.io/badge/MERN-Stack-FFD700?style=for-the-badge&logo=mern&logoColor=black)
-
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF5733?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ![Learner](https://img.shields.io/badge/Learner-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)
 
 </p>
