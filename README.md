@@ -1,6 +1,6 @@
 <h1 align="center">Shreyam Regmi</h1>
 
-<p align="center">
+<p justify-items="center">
 
 ![MERN Stack Developer](https://img.shields.io/badge/MERN-Stack-FFD700?style=for-the-badge&logo=mern&logoColor=black)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF5733?style=for-the-badge&logo=tensorflow&logoColor=white)
