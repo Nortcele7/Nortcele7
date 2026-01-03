@@ -1,8 +1,11 @@
 <h1 align="center">Shreyam Regmi</h1>
 <h2 align="center">MERN Stack| AI/ML | Learner </h2>
 
+<div align-items="center">
 ![MERN Stack Developer](https://img.shields.io/badge/MERN-Stack-FFD700?style=for-the-badge&logo=mern&logoColor=black)
-
+![AI](https://img.shields.io/badge/AI-ML-red?style=for-the-badge)
+![Learner](https://img.shields.io/badge/Learner--green?style=for-the-badge)
+</div>
 
 
 ## About Me
