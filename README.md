@@ -1,5 +1,35 @@
-# 💫 About Me:
-I'm currently working on: Next.js<br><br>I'm looking to collaborate on: MERN projects and ML models<br><br>I'm currently learning: Next.js<br><br>Ask me about: MERN Stack, Manim animations, ML fundamentals<br><br>I love learning
+## About Me
+
+### Currently Working On
+> **Next.js**  
+Building modern, scalable, and performant web applications.
+
+---
+
+### Open to Collaboration
+- **MERN Stack Projects**
+- **Machine Learning Models**
+- Full-stack ideas with real-world impact
+
+---
+
+### Currently Learning
+- **Next.js**  
+Focusing on server components, routing, and performance optimization.
+
+---
+
+### Ask Me About
+- **MERN Stack Development**
+- **Manim Animations** (Math & Visual Explanations)
+- **Machine Learning Fundamentals**
+- Project structuring and clean coding practices
+
+---
+
+### Philosophy
+> *I believe consistent learning and building are the keys to mastery.*
+
 
 
 ## 🌐 Socials:
