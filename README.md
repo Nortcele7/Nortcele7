@@ -3,23 +3,18 @@
 
 
 ## About Me
+I’m a **Computer Engineering student at Pulchowk Campus** with a strong passion for building **scalable software, clean architectures, and impactful products**. I enjoy turning ideas into working systems — whether it’s a full-stack web app, a visual math animation, or a machine learning model driven by real data.
 
-### Currently Working On
-> **Next.js**  
-Building modern, scalable, and performant web applications.
+My core strength lies in the **MERN stack**, complemented by hands-on experience with **Next.js**, **backend APIs**, and **machine learning fundamentals**.
+Beyond development, I value **deep understanding over shortcuts**. I like breaking down complex concepts, visualizing themand continuously refining my problem-solving mindset.
 
----
+I’m actively looking to **collaborate on meaningful projects**, internships, or research-oriented work where I can contribute, learn fast, and grow as an engineer. If you’re seeking someone who is **curious, consistent, and serious about engineering**, I’d love to connect.
 
 ### Open to Collaboration
 - **MERN Stack Projects**
 - **Machine Learning Models**
-- Full-stack ideas with real-world impact
-
----
-
-### Currently Learning
-- **Next.js**  
-Focusing on server components, routing, and performance optimization.
+- **End to End Machine Learning Projects**
+- **Full-stack ideas with real-world impact**
 
 ---
 
@@ -27,7 +22,7 @@ Focusing on server components, routing, and performance optimization.
 - **MERN Stack Development**
 - **Manim Animations** (Math & Visual Explanations)
 - **Machine Learning Fundamentals**
-- Project structuring and clean coding practices
+- **End to End Machine Learning**
 
 
 ## 🌐 Socials:
