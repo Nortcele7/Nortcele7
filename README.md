@@ -2,9 +2,9 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MERN-Stack-FFD700?style=for-the-badge&logo=mern&logoColor=black" alt="MERN Stack"/>
-<img src="https://img.shields.io/badge/AI%2FML-FF5733?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-<img src="https://img.shields.io/badge/Learner-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learner"/>
+<img src="https://img.shields.io/badge/MERN-Stack-FFD700?style=for-the-badge&logoColor=black" alt="MERN Stack"/>
+<img src="https://img.shields.io/badge/AI%2FML-FF5733?style=for-the-badge&logoColor=white" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/Learner-4CAF50?style=for-the-badge&logoColor=white" alt="Learner"/>
 
 </p>
 
