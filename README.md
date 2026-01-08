@@ -9,7 +9,8 @@ I’m a **Computer Engineering student at Pulchowk Campus** with a strong passio
 My core strength lies in the **MERN stack**, complemented by hands-on experience with **Next.js**, **backend APIs**, and **machine learning fundamentals**.
 Beyond development, I value **deep understanding over shortcuts**. I like breaking down complex concepts, visualizing themand continuously refining my problem-solving mindset.
 
-I’m actively looking to **collaborate on meaningful projects**, internships, or research-oriented work where I can contribute, learn fast, and grow as an engineer. If you’re seeking someone who is **curious, consistent, and serious about engineering**, I’d love to connect.
+I’m actively looking to **collaborate on meaningful projects**, internships, or research-oriented work where I can contribute, learn fast, and grow as an engineer with good skills. If you’re seeking someone who is **curious, consistent, and serious about engineering**, I’d love to connect.
+
 
 ### Open to Collaboration
 - **MERN Stack Projects**
