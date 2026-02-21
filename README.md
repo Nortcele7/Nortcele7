@@ -4,7 +4,7 @@
 
 
 ## About Me
-I’m a **Computer Engineering student at Pulchowk Campus**, with a strong interest for building **scalable software, clean architectures, and impactful products**. I enjoy turning ideas into working systems whether it’s a full-stack web app, a visual math animation or a machine learning model.
+I’m a **Computer Engineering student at Pulchowk Campus**, with a strong interest and motivation for building **scalable software, clean architectures, and impactful products**. I enjoy turning ideas into working systems whether it’s a full-stack web app, a visual math animation or a machine learning model.
 
 My core strength lies in the **MERN stack**, complemented by hands on experience with **Next.js**, **backend APIs**, and **machine learning fundamentals**.
 Beyond development, I value **deep understanding over shortcuts**. I like breaking down complex concepts, visualizing themand continuously refining my problem-solving mindset.
