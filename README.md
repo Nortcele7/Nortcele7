@@ -4,7 +4,7 @@
 
 
 ## About Me
-I’m a **Computer Engineering student at Pulchowk Campus**, with a strong interest and motivation for building **scalable software, clean architectures, and impactful products**.
+I’m a **Computer Engineering student at Pulchowk Campus**, with a strong interest for building **scalable software, clean architectures, and impactful products**.
 
 
 ### Open to Collaboration
