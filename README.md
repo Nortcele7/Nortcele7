@@ -1,43 +1,191 @@
-<h1 align="center">Shreyam Regmi</h1>
-<h1 align="center">Learner | MERN Stack | AI/ML </h1>
+````markdown
+<!-- ========================================================= -->
+<!--                    S H R E Y A M  R E G M I               -->
+<!-- ========================================================= -->
 
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shreyam%20Regmi&fontSize=40&fontColor=e6edf3&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20MERN%20•%20AI/ML&descSize=18&descAlignY=55"/>
 
-## About Me
-I’m a **Computer Engineering student at Pulchowk Campus**, with a strong interest and motivation for building **scalable software, clean architectures, and impactful products**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello+There!+%F0%9F%91%8B;Computer+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New" />
 
+<br>
 
-### Open to Collaboration
-- **MERN Stack Projects**
-- **Machine Learning Models**
-- **End to End Machine Learning Projects**
-- **Full-stack ideas with real-world impact**
+<img src="https://komarev.com/ghpvc/?username=Nortcele7&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge&labelColor=0d1117"/>
+
+</div>
+
+---
+
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nortcele7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+
+# 👨‍💻 About Me
+
+```yaml
+name: Shreyam Regmi
+education: BE Computer Engineering
+university: Pulchowk Campus
+location: Nepal
+
+currently_learning:
+  - Machine Learning
+  - MERN Stack
+  - Open Source
+
+interests:
+  - Artificial Intelligence
+  - Full Stack Development
+  - System Design
+  - Competitive Programming
+
+fun_fact:
+  - "I enjoy building products that solve real-world problems."
+````
+
+<br clear="both"/>
 
 ---
 
-### Ask Me About
-- **MERN Stack Development**
-- **Manim Animations** (Math & Visual Explanations)
-- **Machine Learning Fundamentals**
-- **End to End Machine Learning**
+# 🎯 Current Focus
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shreyam.regmi.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyam_regmi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyam-regmi-6724a6252) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyamregmi5@gmail.com) 
-
-# 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nortcele7&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nortcele7&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nortcele7&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nortcele7)](https://github.com/Nortcele7)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nortcele7&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
+* 🌱 Learning **Advanced Machine Learning**
+* 🚀 Building **Full Stack MERN Applications**
+* 🤝 Looking to collaborate on **Open Source Projects**
+* 📚 Solving **Data Structures & Algorithms**
+* 💡 Exploring **System Design**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nortcele7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# ⚙️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=6"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=4"/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode&perline=6"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nortcele7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Nortcele7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nortcele7&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nortcele7&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+# 🏆 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Nortcele7/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+ 
+
+<a href="https://www.geeksforgeeks.org/user/shreyamregmi/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project                  | Description                                                       |
+| ------------------------ | ----------------------------------------------------------------- |
+| 🧠 End-to-End ML Project | Machine Learning project with deployment                          |
+| 🌐 MERN Stack Project    | Full-stack application built using MongoDB, Express, React & Node |
+| 🎥 Manim Animations      | Mathematical visualization videos                                 |
+| 📊 Data Analysis         | Python-based visualization and analytics                          |
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shreyam-regmi-6724a6252">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://facebook.com/shreyam.regmi.9">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://instagram.com/shreyam_regmi">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+ 
+
+<a href="mailto:shreyamregmi5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
+```
