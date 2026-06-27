@@ -32,6 +32,8 @@ I’m a **Computer Engineering student at Pulchowk Campus**, with a strong inter
 ![](https://nirzak-streak-stats.vercel.app/?user=nortcele7&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nortcele7&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nortcele7)](https://github.com/Nortcele7)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nortcele7&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
 
