@@ -10,7 +10,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=B57BEE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+console.log(%22Hello+There!+%F0%9F%91%8B%22);+Building+full-stack+apps+%26+ML+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=B57BEE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+console.log(%22Shreyam+Here!!+%F0%9F%91%8B%22);+Building+full-stack+apps+%26+ML+systems." alt="Typing SVG" />
 </a>
 
 <br/>
